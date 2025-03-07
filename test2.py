@@ -14,3 +14,4 @@ C:\git\test-git\test2.py
 ㅁ
 
 ㅁㄹㅇㅇㄹ
+커밋까지만 
